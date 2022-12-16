@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/download%20(1).jpeg)
+![Design and Development](https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/BG2.jpg)
 <h1 align="center">Hi 👋, I'm Amaan</h1>
 <h3 align="center">I would love to build personalized products for people with my software development skills. I am skilled in C, C++, Python, HTML, CSS, Javascript, Bootstrap, React.js. My primary interest lies in the field of Web Development and also want to become one. My programming language is c++ and my development language is JavaScript/python and I also know Video Editing, Game developing.</h3>
 
