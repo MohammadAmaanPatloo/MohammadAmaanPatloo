@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaan</h1>
-<h3 align="center">My name is Mohammad Amaan Patloo. I am a 3rd year B-Tech IT student at SRM Institute of Science and Technology College in Chennai. I’d love to build personalized products for people with my software development skills. I am skilled in C, C++, Python, HTML, CSS, Javascript, PHP, Bootstrap, React.js, DBMS, MySQL, Web Development, Game Development, Video Editing, and Photo Editing.</h3>
+<h3 align="center">I would love to build personalized products for people with my software development skills. I am skilled in C, C++, Python, HTML, CSS, Javascript, Bootstrap, React.js. My primary interest lies in the field of Web Development and also want to become one. My programming language is c++ and my development language is JavaScript/python and I also know Video Editing, Game developing.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamaanpatloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamaanpatloo" /> </p>
