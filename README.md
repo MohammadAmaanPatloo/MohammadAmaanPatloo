@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamaanpatloo&show_icons=true&locale=en" alt="mohammadamaanpatloo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadamaanpatloo&" alt="mohammadamaanpatloo" /></p>
-
-![image](https://user-images.githubusercontent.com/111149926/208087022-8f98f2c2-400d-4bc3-8329-686294949190.png)
