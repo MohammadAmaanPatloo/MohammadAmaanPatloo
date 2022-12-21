@@ -25,9 +25,8 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 ## Examples of work
 <img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="256" border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="256" border="10"/>
+<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="256" border="10"/>
 <img src="" width="256" border="10"/>
-
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-amaan-patloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
