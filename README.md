@@ -23,7 +23,9 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 * </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> -->
 
 ## Examples of work
-<img src=""> width="256"/>
+<img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="256" border="10"/>
+<img src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="256" border="10"/>
+
 
 ## Connect with me
 <p align="left">
