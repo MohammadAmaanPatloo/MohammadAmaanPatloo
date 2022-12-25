@@ -8,6 +8,7 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 ## Skills and Experience
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 
+
 * <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a>
 * <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/>
 * <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a>
@@ -23,17 +24,13 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 * </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> -->
 
 ## Examples of work
-<div>
-<img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="400" height="350" border="10"/>
-<img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="400" height="350" border="10"/>
-</div>
-<br>
-<div>
-<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="400" height="350" border="10"/>
-<img align="right" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="400"  height="350" border="10"/>
-</div>
+### Web Technology Projects
+<span><img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/></span>
 
- ## Connect with me
+### Canva Animation Projects
+<span><img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/></span>
+
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-amaan-patloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mohammad amaan patloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohammad amaan patloo" height="30" width="40" /></a>
