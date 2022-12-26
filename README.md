@@ -25,10 +25,12 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 
 ## Examples of work
 ### Web Technology Projects
-<span><img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/></span>
+<span><img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/>
+<img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/></span>
 
 ### Canva Animation Projects
-<span><img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/></span>
+<span><img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/>
+<img align="right" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/></span>
 
 ## Connect with me
 <p align="left">
