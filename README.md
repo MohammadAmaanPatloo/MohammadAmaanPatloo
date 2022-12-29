@@ -30,7 +30,11 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 
 ## Examples of work
 
-<img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="525" height="350"  border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/><img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/>
+<img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/>
+<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/>
+<img align = right src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="525" height="350"  border="10"/>
+<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/>
+<img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/>
 
 
 
@@ -41,9 +45,8 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 
 
 ## Connect with me
-<p>
-<a href="https://linkedin.com/in/mohammad-amaan-patloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mohammad amaan patloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohammad amaan patloo" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammadamaan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadamaan32" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/mohammad-amaan-patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mohammad amaan patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohammad amaan patloo" height="30" width="40" /></a>
+<a href="https://instagram.com/mohammadamaan32" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadamaan32" height="30" width="40" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamaanpatloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamaanpatloo" /> </p>
