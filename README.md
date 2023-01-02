@@ -11,8 +11,8 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 
 
-* <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a>
 * <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/>
+* <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a>
 * <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a>
 * <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> </a>
 * <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/> </a>
@@ -34,8 +34,7 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/>
 <img align = right src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="525" height="350"  border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/>
-<img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/>
-
+<img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/> 
 
 
 
