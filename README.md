@@ -4,7 +4,7 @@
 
  **`Digital Craftsman (Developer/Flimmaker/Creater)`**
  
-Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized products for people with my software development skills. My primary interest lies in the field of Web Development and also want to become one. My programming language is c++ and my development language is JavaScript and python and I also know Video/Photo Editing, Game Developing.
+Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized products for people with my software development skills. My primary interest lies in the field of Web Development and also want to become one. My programming language is C++ and my development language is JavaScript and python and I also know Video/Photo Editing, Game Developing.
 
 
 ## Skills and Experience
