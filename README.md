@@ -32,7 +32,6 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 
 <img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/><img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/>
-<img align = right src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="525" height="350"  border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/>
 <img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/> 
 
