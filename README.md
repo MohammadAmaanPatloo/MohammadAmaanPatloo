@@ -29,14 +29,11 @@ Hi, I am Amaan👋 from Jammu & Kashmir and I would love to build personalized p
 * </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> -->
 
 ## Examples of work
-
 <img src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="425" height="500" border="10"/>
 <img align="right" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="525" height="350" border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="425"  height="350" border="10"/>
-<img src="https://github.com/MohammadAmaanPatloo/To_Do_List/blob/master/todo-view.png" width="525"  height="450" border="10"/>
 <img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="425" height="350" border="10"/>
 <img align="right" src="https://github.com/MohammadAmaanPatloo/LoginPage-BootStrap/blob/master/Login-Signup.png" width="525" height="350" border="10"/> 
-
 
 
 <!-- ## Languages and Tools
