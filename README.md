@@ -1,4 +1,4 @@
-<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/BG2.jpg">
+<img src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Background.jpg">
 
 # Mohammad Amaan Patloo 
 
