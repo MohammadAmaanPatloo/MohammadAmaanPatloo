@@ -45,7 +45,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
  <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page_2/blob/master/Facebook-login-2.png" width="45%">
 </p> 
 <p>
-   <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="45%">
+  <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="45%">
 </p>
 
 <!-- ## Languages and Tools
