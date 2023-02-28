@@ -48,7 +48,6 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
   <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="45%">
  &nbsp; &nbsp; &nbsp; &nbsp; 
   <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/master/Instagram.png" width="45%">
- 
 </p>
 
 <!-- ## Languages and Tools
@@ -58,7 +57,6 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 
 ## Connect with me
 <a href="https://linkedin.com/in/mohammad-amaan-patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mohammad amaan patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohammad amaan patloo" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadamaan32" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadamaan32" height="30" width="40"  /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamaanpatloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamaanpatloo" height="30" width="200"  /> </p>
