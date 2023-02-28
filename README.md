@@ -40,9 +40,9 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
  <img alt="Yoga logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="45%">
 </p> 
 <p align="center">
- <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook-login-Page/blob/master/Facebook-view.png" width="45%">
+ <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page/blob/main/Facebook-Log-in-or-Sign-Up__.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;  
- <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page_2/blob/master/Facebook-login-2.png" width="45%">
+ <img alt="Updated Facebook Page" src="https://github.com/MohammadAmaanPatloo/Updated_Facebook/blob/main/Facebook-login-2.png" width="45%">
 </p> 
 <p>
  <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
