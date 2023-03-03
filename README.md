@@ -50,7 +50,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
  <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="45%">
 </p>
 <p>
- <img alt="Weather App" src="https://github.com/MohammadAmaanPatloo/WeatherApp-Reactjs/blob/main/React-App%20(1).png"" width="45%"> 
+ <img alt="Weather App" src="" width="45%"> 
 </p>
 
 <!-- ## Languages and Tools
