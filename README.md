@@ -32,7 +32,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 <p align="center">
  <img alt="login Page" src="https://github.com/MohammadAmaanPatloo/Login_Page_Bootstrap/blob/main/Login-Signup.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="MERN Todo List" src="https://github.com/MohammadAmaanPatloo/MERN_Project/blob/main/React-App.png" width="45%">
+  <img alt="Todo List" src="https://github.com/MohammadAmaanPatloo/To_Do_List/blob/master/todo-view.png" width="45%">
 </p>
 <p align="center">
  <img alt="Cooking Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="45%">
