@@ -52,10 +52,10 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 <p>
  <img alt="Dino Game" src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="45%"> 
  &nbsp; &nbsp; &nbsp; &nbsp; 
- <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="45%">
+ <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
 </p>
 <p>
- <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
+ <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="50%">
  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
