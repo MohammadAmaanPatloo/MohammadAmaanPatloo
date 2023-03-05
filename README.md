@@ -45,7 +45,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
  <img alt="Updated Facebook Page" src="https://github.com/MohammadAmaanPatloo/Updated_Facebook/blob/main/Facebook-login-2.png" width="45%">
 </p> 
 <p>
- <img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png" width="39%"> 
+ <img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png" width="40%"> 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
  <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato_Landing_Page/blob/main/Zomato-page.png" width="45%">
 </p>
@@ -55,7 +55,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
  <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
 </p>
 <p>
- <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="50%">
+ <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="45%">
  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
