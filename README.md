@@ -46,7 +46,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 </p> 
 <p>
  <img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png" width="39%"> 
- &nbsp; &nbsp; &nbsp; &nbsp; 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
  <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato_Landing_Page/blob/main/Zomato-page.png" width="45%">
 </p>
 <p>
