@@ -35,9 +35,9 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
   <img alt="MERN Todo List" src="https://github.com/MohammadAmaanPatloo/MERN_Project/blob/main/React-App.png" width="45%">
 </p>
 <p align="center">
- <img alt="Cooking logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="45%">
+ <img alt="Cooking Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="45%">
  &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="Yoga logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="45%">
+ <img alt="Yoga Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="45%">
 </p> 
 <p align="center">
  <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page/blob/main/Facebook-Log-in-or-Sign-Up__.png" width="45%">
@@ -47,10 +47,13 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 <p>
  <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
  &nbsp; &nbsp; &nbsp; &nbsp; 
- <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato-Landing-Page/blob/master/view.png" width="45%">
+ <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato_Landing_Page/blob/main/Zomato-page.png" width="45%">
 </p>
 <p>
- <img alt="Weather App" src="" width="45%"> 
+ <img alt="Dino Game" src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="45%"> 
+ &nbsp; &nbsp; &nbsp; &nbsp; 
+ <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="45%">
+
 </p>
 
 <!-- ## Languages and Tools
