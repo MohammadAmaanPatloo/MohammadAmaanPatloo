@@ -10,9 +10,8 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 ## Skills and Experience
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 
-
 * <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="30"/> </a>
-* <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="30"/> </a>
+* <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="30"/> </a>  
 * <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="30"/> </a>
 * <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="30"/> </a>
 * <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="30"/> </a>
@@ -20,7 +19,6 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 * <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="bootstrap" width="40" height="30"/> </a>
 * <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="30"/> </a>
 * <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="canva" width="40" height="30"/> </a>
-
 
 
 <!-- * </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
