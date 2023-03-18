@@ -27,39 +27,7 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
 * </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> -->
 
 ## Examples of work
-<!-- <p align="center">
- <img alt="login Page" src="https://github.com/MohammadAmaanPatloo/Login_Page_Bootstrap/blob/main/Login-Signup.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Todo List" src="https://github.com/MohammadAmaanPatloo/To_Do_List/blob/master/todo-view.png" width="45%">
-</p>
-<p align="center">
- <img alt="Cooking Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Cooking%20Classes.gif" width="45%">
- &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="Yoga Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" width="45%">
-</p> 
-<p align="center">
- <img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page/blob/main/Facebook-Log-in-or-Sign-Up__.png" width="45%">
-  &nbsp; &nbsp; &nbsp; &nbsp;  
- <img alt="Updated Facebook Page" src="https://github.com/MohammadAmaanPatloo/Updated_Facebook/blob/main/Facebook-login-2.png" width="45%">
-</p> 
-<p>
- <img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png" width="40%"> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
- <img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato_Landing_Page/blob/main/Zomato-page.png" width="45%">
-</p>
-<p>
- <img alt="Dino Game" src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png" width="45%"> 
- &nbsp; &nbsp; &nbsp; &nbsp; 
- <img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" width="45%"> 
-</p>
-<p>
- <img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png" width="45%">
- &nbsp; &nbsp; &nbsp; &nbsp;
-</p>
-
-  -->
- 
- <table>
+<table>
  <tr>
   <td><img alt="login Page" src="https://github.com/MohammadAmaanPatloo/Login_Page_Bootstrap/blob/main/Login-Signup.png"></td>
   <td><img alt="Todo List" src="https://github.com/MohammadAmaanPatloo/To_Do_List/blob/master/todo-view.png" ></td>
