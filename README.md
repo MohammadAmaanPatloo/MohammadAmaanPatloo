@@ -53,8 +53,8 @@ Hi, I am Amaan👋, I love to build personalized products for people with my sof
   <td><img alt="Instagram Page" src="https://github.com/MohammadAmaanPatloo/Instagram/blob/main/Instagram.png" ></td>
  </tr>
  <tr>
-  <td><img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Python_Tkinter_NotePad/blob/main/Screenshot%202023-04-24%20030524.png"></td>
-  <td><img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Python_Tkinter_Calculator/blob/main/cal.png"></td>
+  <td><img alt="NotePad" src="https://github.com/MohammadAmaanPatloo/Python_Tkinter_NotePad/blob/main/Screenshot.png"></td>
+  <td><img alt="Calculator" src="https://github.com/MohammadAmaanPatloo/Python_Tkinter_Calculator/blob/main/cal.png"></td>
  </tr>
  <tr>
  <td><img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png"></td>
