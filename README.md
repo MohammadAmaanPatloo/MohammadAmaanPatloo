@@ -4,7 +4,7 @@
 
  **`Passionate Digital Craftsman (Developer/Flimmaker/Creator)`**
  
-Hi, I am Amaan👋, I love to build personalized products for people with my software development skills. My primary interest lies in the field of Web Development and also want to become one. My programming language is C++ and my development language is JavaScript and python and I also have intrest in Editing, Game Developing, Android Developing, Digital Marketing.
+Hi, I am Amaan👋, I love to build personalized products for people with my software development skills. My primary interest lies in the field of Web Development and also want to become one. My programming language is C++ and my development language is JavaScript and python and I also have interest in Editing, Game Developing, Android Developing, Digital Marketing.
 
 
 ## Skills and Experience
