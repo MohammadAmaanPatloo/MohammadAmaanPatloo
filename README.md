@@ -4,7 +4,7 @@
 
  **`Passionate Digital Craftsman (Developer/Flimmaker/Creator)`**
  
-Hi, my name is Amaan👋 and I am a passionate Web Developer. I would love to build personalized products for people with my software development skills. My programming language is python and I also have interest in Data Analysis and Digital Marketing.
+Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in Automotive Software Validation, Python Automation, Data Analysis and Full Stack Development. I specialize in building scalable systems, automating workflows, and solving real-world engineering problems and I also have interest in and Digital Marketing.
 
 
 ## Skills and Experience
