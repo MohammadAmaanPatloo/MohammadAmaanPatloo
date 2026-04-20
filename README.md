@@ -57,7 +57,8 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
 </table>
 
 ## Connect with me
-<a href="https://linkedin.com/in/mohammad-amaan-patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a>
+ <p><a href="https://linkedin.com/in/mohammad-amaan-patloo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-amaan-patloo" height="30" width="40" /></a></p>
+<p>
 <a href="https://instagram.com/mohammadamaan32" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadamaan32" height="30" width="40"  /></a>
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamaanpatloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamaanpatloo" height="30" width="200"  /> </p>
