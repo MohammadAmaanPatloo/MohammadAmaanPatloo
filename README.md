@@ -35,7 +35,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
   <td><img alt="Yoga Logo" src="https://github.com/MohammadAmaanPatloo/MohammadAmaanPatloo/blob/main/Yoga%20Classes.gif" ></td>
  </tr>
  <tr>
-  <td><img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page/blob/main/Facebook-Log-in-or-Sign-Up__.png" ></td>
+  <td><img alt="Analog Clock" src="https://github.com/MohammadAmaanPatloo/Analog_clock/blob/main/pic.png" ></td>
   <td><img alt="Flappy Bird Game" src="https://github.com/MohammadAmaanPatloo/Flappy_Bird_Game/blob/main/Flappy_bird.png"  ></td>
  </tr>
  <tr>
@@ -52,7 +52,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
  </tr>
  <tr>
  <td><img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Google_Drive/blob/main/Google-Drive.png"></td>
- <td><img alt="Google Drive" src="https://github.com/MohammadAmaanPatloo/Tic_Tac_Toe_Game/blob/master/Tic-Tac-Toe.png"></td>  
+ <td><img alt="TicTacToe" src="https://github.com/MohammadAmaanPatloo/Tic_Tac_Toe_Game/blob/master/Tic-Tac-Toe.png"></td>  
  </tr>
 </table>
 
