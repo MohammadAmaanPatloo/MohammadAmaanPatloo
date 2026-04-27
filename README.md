@@ -36,7 +36,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
  </tr>
  <tr>
   <td><img alt="Analog Clock" src="https://github.com/MohammadAmaanPatloo/Analog_clock/blob/main/pic.png" ></td>
-  <td><img alt="Flappy Bird Game" src="https://github.com/MohammadAmaanPatloo/Flappy_Bird_Game/blob/main/Flappy_bird.png"  ></td>
+  <td><img alt="Fitness Website" src="https://github.com/MohammadAmaanPatloo/Gym_website/blob/main/FitnesWebSite.png"  ></td>
  </tr>
  <tr>
   <td><img alt="Gym Login Page" src="https://github.com/MohammadAmaanPatloo/Gym_loginPage/blob/main/Gym_LoginPage.png"  ></td>
