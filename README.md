@@ -36,7 +36,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
  </tr>
  <tr>
   <td><img alt="Facebook Page" src="https://github.com/MohammadAmaanPatloo/Facebook_login_page/blob/main/Facebook-Log-in-or-Sign-Up__.png" ></td>
-  <td><img alt="Updated Facebook Page" src="https://github.com/MohammadAmaanPatloo/Updated_Facebook/blob/main/Facebook-login-2.png"  ></td>
+  <td><img alt="Flappy Bird Game" src="https://github.com/MohammadAmaanPatloo/Flappy_Bird_Game/blob/main/Flappy_bird.png"  ></td>
  </tr>
  <tr>
   <td><img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png"  ></td>
