@@ -40,7 +40,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
  </tr>
  <tr>
   <td><img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png"  ></td>
-  <td><img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Zomato_Landing_Page/blob/main/Zomato-page.png" ></td>
+  <td><img alt="Zomato Page" src="https://github.com/MohammadAmaanPatloo/Windows11/blob/main/Windows11.png" ></td>
  </tr>
  <tr>
   <td> <img alt="Dino Game" src="https://github.com/MohammadAmaanPatloo/Dino-Game/blob/master/Dino-Game.png"  ></td>
