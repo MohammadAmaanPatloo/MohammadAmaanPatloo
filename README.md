@@ -39,7 +39,7 @@ Hi, my name is Amaan👋 and I am a Software Engineer at KPIT with experience in
   <td><img alt="Flappy Bird Game" src="https://github.com/MohammadAmaanPatloo/Flappy_Bird_Game/blob/main/Flappy_bird.png"  ></td>
  </tr>
  <tr>
-  <td><img alt="Food Delivery" src="https://github.com/MohammadAmaanPatloo/Food_Ordering_website/blob/main/Online-Food-Delivery.png"  ></td>
+  <td><img alt="Gym Login Page" src="https://github.com/MohammadAmaanPatloo/Gym_loginPage/blob/main/Gym_LoginPage.png"  ></td>
   <td><img alt="Windows11" src="https://github.com/MohammadAmaanPatloo/Windows11/blob/main/Windows11.png" ></td>
  </tr>
  <tr>
